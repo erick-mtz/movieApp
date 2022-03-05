@@ -30,7 +30,7 @@ Describe any challenges encountered while building the app.
 
 1. Ran into a couple errors while attemping to ge the youtube api to work (mainly syntax errors)
 
-2. For some reason the app will crash after going back to the previous screen twice(still investigating the issue)
+2. Sometimes the app will crash after going back to the previous screen twice(still investigating the issue)
 
 
 ## Open-source libraries used
